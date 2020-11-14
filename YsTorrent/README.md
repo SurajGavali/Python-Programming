@@ -1,6 +1,6 @@
 
 # YsTorrent using python 
-## (YsTorrent is just name)
+## (YsTorrent is just name like BitTorrent)
 
 YsTorrent is a CLI tool that downloads files from the BitTorrent network.
 
