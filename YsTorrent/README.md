@@ -29,7 +29,7 @@ You can run the following command to install the dependencies using pip
 
 ## Running the program
 
-###simply run this command
+### simply run this command
 
 python3 YsTorrent.py "Filename"
 
